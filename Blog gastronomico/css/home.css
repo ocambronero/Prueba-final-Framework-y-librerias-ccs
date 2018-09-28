@@ -20,6 +20,15 @@ body {
   margin-right: 5px;
 }
 
+.menu-izq h5{
+  color: #C652BE;
+}
+
+.boton{
+  color: #C652BE;
+  
+}
+
 .contenido {
   background: rgba(247, 207, 192, 0.60);
   padding: 10px;

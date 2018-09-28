@@ -1,0 +1,50 @@
+body{
+  background: url(../img/fondo.jpg);
+  background-size:cover;
+}
+
+.barra-superior{
+  min-height: 4rem;
+}
+
+div[class*="columna"]{
+  min-height: 50rem;
+}
+
+div[class*="bloque"]{
+  height: 25rem;
+}
+
+.contenedor-write-publicacion{
+  min-height: 7rem;
+}
+
+.contenedor-publicacion{
+  background-color: rgba(243, 252, 228, 0.8);
+  min-height: 17rem;
+  padding: 2rem;
+}
+
+.contenedor-articulo{
+  background-color: rgb(243, 252, 248);
+  min-height: 17rem;
+  padding: 2rem;
+}
+
+.logo{
+  width: 100px;
+  margin-top: 0.5rem;
+}
+
+.red-social{
+  width: 50px;
+  margin-top: 0.5rem;
+}
+
+.columna-publicaciones{
+  margin-top: 1rem;
+  min-height: 50rem;
+  padding: 0.5rem;
+}
+.responsive-img{
+}
