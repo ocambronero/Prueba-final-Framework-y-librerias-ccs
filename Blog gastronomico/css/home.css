@@ -1,0 +1,44 @@
+body {
+  background: url(../img/fondo.jpg);
+}
+
+.main {
+  background: rgba(126, 126, 151, 0.50);
+  color: #ffffff;
+  width: 90%;
+}
+
+.logo p{
+      color: #ffffff;
+}
+
+.menu-izq {
+  background: rgba(205, 218, 230, 0.80);
+  color: #C652BE;
+  padding: 20px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.contenido {
+  background: rgba(247, 207, 192, 0.60);
+  padding: 10px;
+  color: black;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.contenido h3, h5, h6, p, img, label{
+  color: black;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.comentario{
+  font-size: 13px;
+  color: #474F57;
+}
+
+.logo {
+  color: white;
+}

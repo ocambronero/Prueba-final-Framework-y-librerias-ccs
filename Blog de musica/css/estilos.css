@@ -1,0 +1,93 @@
+
+.musica-body {
+  background: rgb(196, 71, 71);
+}
+
+.container{
+  background: #ffffff;
+}
+
+.navbar-inverse {
+  background-color: rgba(255, 195, 0, 0.95);
+  min-height: 10%;
+  border: none;
+}
+
+.referencias {
+  margin: 10px;
+}
+
+.logo {
+  background-color: rgba(255, 255, 255, 0.95);
+  min-height: 10%;
+  border: none;
+}
+
+.logo-img {
+  width: 100px;
+}
+
+.redes-sociales {
+  margin-top: 50px;
+}
+
+.img-social {
+  width: 40px;
+  height: 40px;
+}
+
+.img-music {
+  height: 150px;
+  padding: 5px;
+  align-items: center;
+}
+
+.titulo {
+  min-height: 35px;
+  margin-left: 5px;
+}
+
+.titulo-text {
+  font-size: 16px;
+  color: #171717;
+  padding: 10px;
+}
+
+@media (max-width: 770px) {
+  h2 {
+    font-size: 22px;
+  }
+  .redes-sociales {
+    text-align: center;
+  }
+  .titulo-text {
+    font-size: 15px;
+  }
+
+  .img-music {
+    height: 50vw;
+  }
+
+  .container-fluid{
+    margin-top: 60px;
+  }
+
+  .movies-column {
+    min-height: 230px;
+  }
+
+  .jumbotron {
+    min-height: 400px;
+  }
+
+  .jumbotron-img {
+    width: 150px;
+    margin-top: 20px;
+  }
+
+  .img-movies {
+    height: 133px;
+    padding: 6px;
+    margin-top: 22px;
+  }
+}
